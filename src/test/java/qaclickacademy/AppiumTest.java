@@ -14,4 +14,8 @@ public void IOSApps() {
 	System.out.println("IOSApps");
 	
 }
+@Test
+public void IOSApps12() {
+	System.out.println("IOSApps12");
+	
 }
